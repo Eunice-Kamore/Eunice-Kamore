@@ -2,7 +2,7 @@
 I have a Bachelor's of Science degree in Computer Science and a strong passion for Tech Support and Cloud Computing.
 
 ## Objective
-I have opened this GitHub page primarily to showcase a range of projects that highlight my technical skills in various areas. I have utilized industry standard tools and approaches to simulate and tackle real-world problems in the IT Support world.
+I have opened this GitHub page primarily to showcase a range of projects that highlight my technical skills in various areas. I have utilized industry standard tools and approaches to simulate real-world problem-solving in IT Support.
 ## IT Support Projects:
 Here I am going to link repositories of projects that I have worked on once I am done updating them.
 
