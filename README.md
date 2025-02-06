@@ -24,6 +24,13 @@ Here I will list down tools and technologies I have used, and ones that I am ski
 - MFA
 - Linux (Basic Knowlegde), Still working on becoming a expert.
 - EDR,SIEM
-## Let's connect!
-[LinkedIn](www.linkedin.com/in/eunice-kamore) 
+- 
+<h2> 🌐 Lets Connect:</h2>
+
+<div>
+   <a href="https://www.linkedin.com/in/eunice-kamore" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
+</div>
+
 
