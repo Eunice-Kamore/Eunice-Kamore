@@ -6,8 +6,10 @@ I have opened this GitHub page primarily to showcase a range of projects that hi
 ## IT Support Projects:
 Below are links to individual projects.
 
-1.[Projects Overview](https://github.com/Eunice-Kamore/IT-Support-Projects)
+1.[Projects Overview](https://github.com/Eunice-Kamore/IT-Support-Projects) 
+
 2.[Getting Started with Virtual Box and Server 2022](https://github.com/Eunice-Kamore/Installing-VirtualBox-and-Windows-Server-2022)
+
 3.[Installing Active Directory Domain Services](https://github.com/Eunice-Kamore/Active-Directory-Domain-Services)
 
 ## Tools and Technologies
@@ -24,16 +26,4 @@ Here I will list down tools and technologies I have used, and ones that I am ski
 - EDR,SIEM
 ## Let's connect!
 [LinkedIn](www.linkedin.com/in/eunice-kamore) 
-**Eunice-Kamore/Eunice-Kamore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
