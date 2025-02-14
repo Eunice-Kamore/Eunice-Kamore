@@ -1,5 +1,5 @@
 # Welcome to my GitHub. I'm Eunice!
-I have a Bachelor's of Science degree in Computer Science and a strong passion for Tech Support and Cybersecurity.
+I have a Bachelor's of Science degree in Computer Science and a strong passion for Tech Support and Cloud Computing.
 
 ## Objective
 I have opened this GitHub page primarily to showcase a range of projects that highlight my technical skills in various areas. I have utilized industry standard tools and approaches to simulate real-world problem-solving in IT Support.
