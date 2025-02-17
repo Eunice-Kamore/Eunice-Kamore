@@ -14,6 +14,8 @@ Below are links to individual projects.
 
 4.[Creating Windows 10 VM and Joining it to the Domain](https://github.com/Eunice-Kamore/Creating-Windows-10-VM)
 
+5.[User Account Management with Active Directory](https://github.com/Eunice-Kamore/Creating-Windows-10-VM)
+
 ## Tools and Technologies
 Here I will list down tools and technologies I have used, and ones that I am skilled in.
 - Server 2019/2022
@@ -24,7 +26,7 @@ Here I will list down tools and technologies I have used, and ones that I am ski
 - PowerShell
 - Windows 10/11
 - MFA
-- Linux (Basic Knowlegde), Still working on becoming a expert.
+- Linux (Basic)
 - EDR,SIEM
 - 
 <h2> 🌐 Lets Connect:</h2>
