@@ -12,6 +12,8 @@ Below are links to individual projects.
 
 3.[Installing Active Directory Domain Services](https://github.com/Eunice-Kamore/Active-Directory-Domain-Services)
 
+4.[Creating Windows 10 VM and Joining it to the Domain](https://github.com/Eunice-Kamore/Creating-Windows-10-VM)
+
 ## Tools and Technologies
 Here I will list down tools and technologies I have used, and ones that I am skilled in.
 - Server 2019/2022
