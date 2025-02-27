@@ -14,7 +14,9 @@ Below are links to individual projects.
 
 4.[Creating Windows 10 VM and Joining it to the Domain](https://github.com/Eunice-Kamore/Creating-Windows-10-VM)
 
-5.[User Account Management with Active Directory](https://github.com/Eunice-Kamore/Creating-Windows-10-VM)
+5.[User Account Management with Active Directory](https://github.com/Eunice-Kamore/User-Account-Management-with-AD)
+
+6.[Solving Common Active Directory Issues](https://github.com/Eunice-Kamore/Solving-common-issues-in-Active-Directory)
 
 ## Tools and Technologies
 Here I will list down tools and technologies I have used, and ones that I am skilled in.
