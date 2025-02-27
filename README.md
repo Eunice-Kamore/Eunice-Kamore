@@ -18,6 +18,8 @@ Below are links to individual projects.
 
 6.[Solving Common Active Directory Issues](https://github.com/Eunice-Kamore/Solving-common-issues-in-Active-Directory)
 
+7.[Security Groups, Shared Folders and Mapped Drives](https://github.com/Eunice-Kamore/Security-Groups-Shared-Folders-and-Mapped-Drives)
+
 ## Tools and Technologies
 Here I will list down tools and technologies I have used, and ones that I am skilled in.
 - Server 2019/2022
