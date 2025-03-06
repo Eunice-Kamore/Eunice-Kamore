@@ -4,21 +4,8 @@ I have a Bachelor's of Science degree in Computer Science and a strong passion f
 ## Objective
 I have opened this GitHub page primarily to showcase a range of projects that highlight my technical skills in various areas. I have utilized industry standard tools and approaches to simulate real-world problem-solving in IT Support.
 ## IT Support Projects:
-Below are links to individual projects.
 
-1.[Projects Overview](https://github.com/Eunice-Kamore/IT-Support-Projects) 
-
-2.[Getting Started with Virtual Box and Server 2022](https://github.com/Eunice-Kamore/Installing-VirtualBox-and-Windows-Server-2022)
-
-3.[Installing Active Directory Domain Services](https://github.com/Eunice-Kamore/Active-Directory-Domain-Services)
-
-4.[Creating Windows 10 VM and Joining it to the Domain](https://github.com/Eunice-Kamore/Creating-Windows-10-VM)
-
-5.[User Account Management with Active Directory](https://github.com/Eunice-Kamore/User-Account-Management-with-AD)
-
-6.[Solving Common Active Directory Issues](https://github.com/Eunice-Kamore/Solving-common-issues-in-Active-Directory)
-
-7.[Security Groups, Shared Folders and Mapped Drives](https://github.com/Eunice-Kamore/Security-Groups-Shared-Folders-and-Mapped-Drives)
+[IT Helpdesk Lab Projects](https://github.com/Eunice-Kamore/IT-Support-Projects)
 
 ## Tools and Technologies
 Here I will list down tools and technologies I have used, and ones that I am skilled in.
